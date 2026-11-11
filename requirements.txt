@@ -1,0 +1,43 @@
+
+# ==========================================================
+# Securing AI Certification - Python Dependencies
+# Recommended Python Version: 3.12
+# ==========================================================
+
+# Jupyter Notebook Support
+ipykernel
+ipython
+ipython-genutils
+ipywidgets
+jupyterlab
+nbformat
+
+# Data Processing
+numpy
+pandas
+scipy
+
+# Data Visualization
+matplotlib
+seaborn
+pillow
+
+# Machine Learning
+scikit-learn
+imbalanced-learn
+
+# Deep Learning
+tensorflow
+torch
+torchvision
+
+# Model Analysis
+shap
+
+# Security Lab Utilities
+requests
+python-dotenv
+
+# Additional Utilities
+tqdm
+joblib
